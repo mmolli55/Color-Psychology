@@ -25,9 +25,9 @@ Introductory presentation to the concept of Color Psychology
 
 # Examples
 
-- Facebook
-- PayPal
-- Many Banks
+- Facebook.com
+- PayPal.com
+- capitalone.com
 
 ---
 
