@@ -1,8 +1,3 @@
-Color-Psychology
-================
-
-Introductory presentation to the concept of Color Psychology
-
 # Color Psychology
 
 - Color psychology is the science of how color affects human behavior.
