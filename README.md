@@ -25,9 +25,9 @@ Introductory presentation to the concept of Color Psychology
 
 # Examples
 
-- Facebook.com
-- PayPal.com
-- capitalone.com
+- http://Facebook.com
+- https://PayPal.com
+- https://www.capitalone.com
 
 ---
 
@@ -48,12 +48,19 @@ Introductory presentation to the concept of Color Psychology
 
 ---
 
+#Examples
+
+- http://whataburger.com/company
+- http://www.worldvision.org/
+
+---
+
 # Caveat
 
 - Orange can be slightly overwhelming.
-- Use sparingly to bring attention to something (Amazon.com)
+- Use sparingly to bring attention to something (http://www.amazon.com)
 
-- Can be interpreted as cheap (BigLots.com)
+- Can be interpreted as cheap (http://www.biglots.com/)
 - Not recommended if you are trying to convey a sense of luxury.
 
 ---
@@ -67,9 +74,9 @@ Introductory presentation to the concept of Color Psychology
 
 # Examples:
 
-- Mercedes
-- Lamborghini
-_ Louis Vuitton
+- Lamborghini: http://www.lamborghini.com
+- Mercedes: http://www.mbusa.com/mercedes/index
+_ Louis Vuitton: https://blog.kissmetrics.com/wp-content/uploads/2014/04/19-louis-vuitton.jpg
 
 ---
 
@@ -84,9 +91,9 @@ _ Louis Vuitton
 
 # Examples:
 
-- Greenpeace.com
-- M & T Bank
-- Whole Foods
+- Greenpeace: http://www.greenpeace.org/usa/en/
+- M & T Bank: https://www.mtb.com
+- Whole Foods: http://www.wholefoodsmarket.com/values-matter
 
 ---
 
@@ -101,7 +108,7 @@ _ Louis Vuitton
 
 - States that you remember things better if they stand out.
 - Amazon's "Add to Cart" button.
-- Movember "Donate" button.
+- Movember "Donate" button: http://us.movember.com/
 
 ---
 
@@ -109,7 +116,8 @@ _ Louis Vuitton
 
 - Some of the best call to action colors are the “ugly” ones — orange and yellow.
 - “Psychologically, the ‘anti-aesthetic’ colors may well capture more attention than those on the aesthetically-correct list.”
-- Since the goal is to capture attention, then you may do just fine with that big orange button (BOB). Or yellow. (Amnesty International)
+- Since the goal is to capture attention, then you may do just fine with that big orange button (BOB). Or yellow.)
+- http://www.amnestyusa.org/
 
 ---
 
@@ -124,7 +132,8 @@ _ Louis Vuitton
 
 #Examples
 
-- Google.com
+- http://google.com
+- http://www.bradhogan.me/
 - http://brightbyte.co.uk/
 
 
