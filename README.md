@@ -30,7 +30,7 @@
 
 - Should not be used with anything related to food.
 - Studies have shown that the color blue actually supresses the appetite.
-- Blue food are not common in nature.
+- Blue foods are not common in nature.
 - Evolutionary theory suggests that blue is a color associated with poison.
 
 ---
