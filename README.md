@@ -7,7 +7,7 @@
 
 - In a peer reviewed journal article, Satyendra Singh determined that it takes a mere 90 seconds for a customer to form an opinion about a product. And, 62-90% of that interaction is determined by the color of the product alone.
 
-- The color schemes we choose have the potential to both evoke emotions from the user that they then associate with your product and to influence the user's behavior.
+- The color schemes we choose have the potential to evoke emotions from the user that they then associate with your product. Color can also be used to influence the user's behavior.
 
 ---
 # Blue
