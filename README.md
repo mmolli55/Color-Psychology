@@ -71,7 +71,7 @@
 
 - Lamborghini: http://www.lamborghini.com
 - Mercedes: http://www.mbusa.com/mercedes/index
-_ Louis Vuitton: https://blog.kissmetrics.com/wp-content/uploads/2014/04/19-louis-vuitton.jpg
+- Louis Vuitton: https://blog.kissmetrics.com/wp-content/uploads/2014/04/19-louis-vuitton.jpg
 
 ---
 
